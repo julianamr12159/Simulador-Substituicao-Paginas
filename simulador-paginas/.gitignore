@@ -1,0 +1,7 @@
+out/
+*.class
+fontes.txt
+.idea/
+*.iml
+.vscode/
+simulador-paginas.jar
