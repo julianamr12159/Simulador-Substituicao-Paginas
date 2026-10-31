@@ -95,11 +95,13 @@ java -cp out simulador.Main
 - **Cartões** com faltas, acertos e taxa de faltas de cada método.
 - **Aba Comparativo:** gráfico de barras com as faltas por algoritmo.
 
-![Grafico Exemplo](docs/grafico_exemplo.png)
+<img width="1365" height="756" alt="grafico_exemplo" src="https://github.com/user-attachments/assets/f2c45d8f-f07b-4bae-87a1-dd4418ab2725" />
 
-![Anomalia de Belady](docs/grafico_anomalia_belady.png)
+<img width="1365" height="718" alt="grafico_anomalia_belady" src="https://github.com/user-attachments/assets/05875571-1d53-4226-a4ab-bb319901ecbe" />
 
-![Grafico Aleatorio](docs/grafico_aleatorio.png)
+<img width="1365" height="721" alt="grafico_aleatorio" src="https://github.com/user-attachments/assets/d7dc6c8a-5098-4c5e-b810-9d30d5805027" />
+
+<img width="677" height="250" alt="saida_console" src="https://github.com/user-attachments/assets/9d0c5396-2f22-4849-ba63-15f9c46515d2" />
 
 ## Estrutura do projeto
 
